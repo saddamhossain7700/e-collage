@@ -1,0 +1,46 @@
+.container{
+    margin-bottom: 50px;
+}
+.col-md-6 img{
+    width: 100%;
+}
+.in-button{
+   background-color: rgb(74, 180, 74);
+   border-radius: 40px;
+   padding: 5px 20px;
+   border: none;
+}
+.fast-pra{
+    color: tomato;
+}
+.sec-pra{
+    color: grey;
+}
+.hilight{
+    color:#08b908 ;
+}
+.detels{
+    padding: 100px 150px;
+}
+.hedar{
+    background-color: rgb(217, 240, 226);
+    border-radius: 20px;
+}
+.col-md-3 img{
+    width: 100%;
+    padding: 50px 70px;
+}
+.small-icon{
+    text-align: center;
+}
+.col-md-3{
+    background-color: rgb(248, 250, 244);
+    border-radius: 10px;
+   width: 250px;
+   margin-left: auto;
+   margin-right: auto;
+}
+.col-md-3:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px grey;
+}
